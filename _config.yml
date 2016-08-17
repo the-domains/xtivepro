@@ -1,4 +1,3 @@
-layout_spectrum: 0.5783868043217808
 typography_spectrum: 0.5435959093738347
 color:
   brandStrength: 0.16543671675026417
@@ -6,9 +5,11 @@ color:
   saturation: 0.2926786008756608
   rhythmicContrast: 0.9874895222019404
   brandColors:
-    - '#FFFFFF'
-    - '#FF0015'
-    - '#211F20'
-    - '#656565'
-    - '#EC6F74'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.5783868043217808
 name: XtivePro
+title: Simplicity in Home Excercise
