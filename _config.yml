@@ -12,4 +12,10 @@ color:
     - '#3B28CC'
 layout_spectrum: 0.5783868043217808
 name: XtivePro
+navigation:
+  - name: >-
+      'Bike to the Future': Design Museum Gent considers a world of two-wheeled
+      design.
+    id: 9f50ad8a-ae48-4dc0-8da0-810c5271730d
+    type: content
 title: Simplicity in Home Excercise
