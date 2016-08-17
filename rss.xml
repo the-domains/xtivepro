@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[XtivePro]]></title>
-        <description><![CDATA[XtivePro]]></description>
+        <title><![CDATA[Simplicity in Home Excercise]]></title>
+        <description><![CDATA[Simplicity in Home Excercise]]></description>
         <link>https://thegrid.ai/xtivepro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 10:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 18:40:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/xtivepro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA['Bike to the Future': Design Museum Gent considers a world of two-wheeled design.]]></title>
+            <description><![CDATA[<article><h1>'Bike to the Future': Design Museum Gent considers a world of two-wheeled design.</h1><p>'Bike to the Future' is the latest testament to a cycling revolution we've been witnessing since the 1960s. But the Design Museum Gent isn't interested in the past; between 25 March - 23 October it showcases a collection of contemporary models from the new millennium, including Philippe Starck's electric bike 'MASS' or Tobias Knockaert's laser-cut bicycle, and prototypes and experiments for the future, with unusual aesthetics, materials and functions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e75dd9b06e93c20d73aed8ffe8845b13b5208794.jpg"></article>]]></description>
+            <link>https://thegrid.ai/xtivepro/bike-to-the-future-design-museum-gent-considers-a-world-o/index.html</link>
+            <guid isPermaLink="false">9f50ad8a-ae48-4dc0-8da0-810c5271730d</guid>
+            <pubDate>Wed, 17 Aug 2016 18:40:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Super stylli: our pick of the finest (and most stylish) smart-pens.]]></title>
             <description><![CDATA[<article><h1>Super stylli: our pick of the finest (and most stylish) smart-pens.</h1><p>Before touchpads, the stylus was at the cutting edge of data entry. And while designers and CAD operators remain devoted to the device, the advent of the touchscreen has sparked fresh interest in stylish stylii. Silicon Valley's big players are now rolling out a new era of smart stationery.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e8ee90cdb71d0172520dfe163b9d60343600194.jpg"></article>]]></description>
             <link>http://www.wallpaper.com/lifestyle/the-best-and-most-stylish-computer-pens</link>
             <guid isPermaLink="false">fe0999c4-4b1a-456c-95d3-9d6346be095f</guid>
-            <pubDate>Wed, 17 Aug 2016 10:34:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Bike to the Future': Design Museum Gent considers a world of two-wheeled design.]]></title>
-            <description><![CDATA[<article><h1>'Bike to the Future': Design Museum Gent considers a world of two-wheeled design.</h1><p>'Bike to the Future' is the latest testament to a cycling revolution we've been witnessing since the 1960s. But the Design Museum Gent isn't interested in the past; between 25 March - 23 October it showcases a collection of contemporary models from the new millennium, including Philippe Starck's electric bike 'MASS' or Tobias Knockaert's laser-cut bicycle, and prototypes and experiments for the future, with unusual aesthetics, materials and functions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e75dd9b06e93c20d73aed8ffe8845b13b5208794.jpg"></article>]]></description>
-            <link>http://www.wallpaper.com/design/cycling-our-way-to-the-future</link>
-            <guid isPermaLink="false">9f50ad8a-ae48-4dc0-8da0-810c5271730d</guid>
             <pubDate>Wed, 17 Aug 2016 10:34:26 GMT</pubDate>
         </item>
     </channel>
