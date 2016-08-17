@@ -6,9 +6,9 @@ color:
   saturation: 0.2926786008756608
   rhythmicContrast: 0.9874895222019404
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FFFFFF'
+    - '#FF0015'
+    - '#211F20'
+    - '#656565'
+    - '#EC6F74'
 name: XtivePro
